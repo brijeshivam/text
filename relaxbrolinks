@@ -1,1 +1,5 @@
-https://meme-api.herokuapp.com/gimme/indiameme]https://meme-api.herokuapp.com/gimme/memes]https://meme-api.herokuapp.com/gimme/dankinindia]https://meme-api.herokuapp.com/gimme/IndianDankMemes]https://meme-api.herokuapp.com/gimme/HindiMemes]https://meme-api.herokuapp.com/gimme/ComedyCemetery
+{
+"size": 2,
+"0": "link1",
+"1": "link2",
+}
